@@ -1,0 +1,16 @@
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\obj\Debug\net5.0\ProjetoAED1.csproj.AssemblyReference.cache
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\obj\Debug\net5.0\ProjetoAED1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\obj\Debug\net5.0\ProjetoAED1.AssemblyInfoInputs.cache
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\obj\Debug\net5.0\ProjetoAED1.AssemblyInfo.cs
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\obj\Debug\net5.0\ProjetoAED1.csproj.CoreCompileInputs.cache
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\bin\Debug\net5.0\ProjetoAED1.exe
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\bin\Debug\net5.0\ProjetoAED1.deps.json
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\bin\Debug\net5.0\ProjetoAED1.runtimeconfig.json
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\bin\Debug\net5.0\ProjetoAED1.runtimeconfig.dev.json
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\bin\Debug\net5.0\ProjetoAED1.dll
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\bin\Debug\net5.0\ref\ProjetoAED1.dll
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\bin\Debug\net5.0\ProjetoAED1.pdb
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\obj\Debug\net5.0\ProjetoAED1.dll
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\obj\Debug\net5.0\ref\ProjetoAED1.dll
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\obj\Debug\net5.0\ProjetoAED1.pdb
+C:\Users\Danniel\Documents\Orientação a objetos\ProjetoAED1\obj\Debug\net5.0\ProjetoAED1.genruntimeconfig.cache
